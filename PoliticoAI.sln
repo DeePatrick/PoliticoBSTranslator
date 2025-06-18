@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliticoAI.Common", "PoliticoAI.Common\PoliticoAI.Common.csproj", "{DDC476B0-96EB-4333-B8AE-FB0A947F0D27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliticoAI.DAL", "PoliticoAI.DAL\PoliticoAI.DAL.csproj", "{20843B62-5C3E-4599-8180-1AE7227B9C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliticoAI.WebApi", "PoliticoAI.WebApi\PoliticoAI.WebApi.csproj", "{0F9BD7DD-D9B7-4171-8938-6DE70A4AB4AA}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "PoliticoAI.WebApp", "PoliticoAI.WebApp\PoliticoAI.WebApp.esproj", "{FC212AA2-72DB-42EF-AC2F-B0373BB0D3E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC476B0-96EB-4333-B8AE-FB0A947F0D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC476B0-96EB-4333-B8AE-FB0A947F0D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC476B0-96EB-4333-B8AE-FB0A947F0D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC476B0-96EB-4333-B8AE-FB0A947F0D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20843B62-5C3E-4599-8180-1AE7227B9C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20843B62-5C3E-4599-8180-1AE7227B9C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20843B62-5C3E-4599-8180-1AE7227B9C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20843B62-5C3E-4599-8180-1AE7227B9C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9BD7DD-D9B7-4171-8938-6DE70A4AB4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9BD7DD-D9B7-4171-8938-6DE70A4AB4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9BD7DD-D9B7-4171-8938-6DE70A4AB4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9BD7DD-D9B7-4171-8938-6DE70A4AB4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC212AA2-72DB-42EF-AC2F-B0373BB0D3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC212AA2-72DB-42EF-AC2F-B0373BB0D3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC212AA2-72DB-42EF-AC2F-B0373BB0D3E7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FC212AA2-72DB-42EF-AC2F-B0373BB0D3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC212AA2-72DB-42EF-AC2F-B0373BB0D3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC212AA2-72DB-42EF-AC2F-B0373BB0D3E7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E30A1B98-7E73-4BBB-B763-2027388DA557}
+	EndGlobalSection
+EndGlobal
