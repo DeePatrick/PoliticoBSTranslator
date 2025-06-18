@@ -1,0 +1,19 @@
+.ascom-bg-primary {
+  background: #ffffff;
+  border-bottom: 1px solid rgb(195, 203, 207);
+}
+
+.divider-vertical {
+  margin: 0 7px;
+  padding: 0;
+  height: 40px;
+  border-left: 1px solid #c3cbcf;
+}
+
+nav {
+  padding: 2px;
+}
+
+.project-title {
+  font-size: medium;
+}

@@ -1,0 +1,44 @@
+#dashboard {
+  overflow-x: hidden;
+}
+
+.card {
+  border: 0px solid !important;
+}
+
+.card-header {
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: inherit !important;
+  border-bottom: 3px solid rgb(53, 107, 155) !important;
+  text-align: center !important;
+  font-style: italic !important;
+}
+
+.list-group-item {
+  border: 0px solid !important;
+}
+
+.padding-16 {
+  padding: 0px 28px 0px !important;
+}
+
+.margin-bottom-20 {
+  margin-bottom: 20px;
+}
+
+.dashboard-bottom {
+  width: 100%;
+  border-top: solid 2px #a4b5cf;
+  /*  margin-top: -30px;*/
+}
+.dashboard-bottom-align {
+  text-align: right;
+}
+.btn-dashboard-bottom {
+  font-size: 13px;
+}
+
+.dash-bottom-img {
+  margin-top: 8px;
+}

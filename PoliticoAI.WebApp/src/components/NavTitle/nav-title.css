@@ -1,0 +1,36 @@
+.title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.title-container-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+  margin-right: 12px;
+}
+
+.title {
+  margin: 0;
+  font-weight: bold;
+}
+
+.icon-dashboard {
+  border-style: hidden;
+  padding: 0px;
+}
+
+nav {
+  padding: 2px;
+}
+
+.project-title {
+  font-size: medium;
+}
+
+.padding-5 {
+  padding: 5px;
+}

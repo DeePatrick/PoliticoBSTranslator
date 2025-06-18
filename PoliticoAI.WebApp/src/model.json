@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "Immigration",
+    "statement": "We are providing safe and dignified accommodation while we process claims.",
+    "evasion_type": "Public Visibility Avoidance",
+    "satirical_response": "We rented overpriced hotels so the public won’t see the tents — but don't ask how much it's costing you.",
+    "country_context": "UK",
+    "source": "UK Home Secretary, 2024"
+  },
+  {
+    "topic": "Immigration",
+    "statement": "We have increased funding for emergency shelters.",
+    "evasion_type": "Cost Deflection",
+    "satirical_response": "We bought a few more tents before winter hit.",
+    "country_context": "France",
+    "source": "French Interior Minister, 2023"
+  },
+  {
+    "topic": "Immigration",
+    "statement": "We will not tolerate disorderly encampments.",
+    "evasion_type": "Enforcement Theater",
+    "satirical_response": "If we chase them away with police enough times, maybe they'll vanish.",
+    "country_context": "France",
+    "source": "French Police Prefecture, 2023"
+  }
+]
